@@ -4,7 +4,7 @@ Kürzel: renn
 
 ## Studie
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Machbarkeitsstudie mit Bewertung von Kosten, Nutzen und technischer Umsetzbarkeit.
 
 - Eigenentwicklung, Anpassung einer Open-Source-Lösung und Kauf nebeneinanderstellen und nach Kosten und Nutzen bewerten
 - Die heutige Lage aufnehmen: wie Sprechstunden und Prüfungstermine bisher vereinbart werden und wo es hakt
@@ -13,7 +13,7 @@ Kürzel: renn
 
 ## Systemspezifikation
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Anforderungsspezifikation mit den benötigten Funktionen und Anforderungen an den Terminplaner.
 
 - Mit Lehrenden und Sekretariaten Schritt für Schritt beschreiben, wie ein Sprechstundentermin gebucht wird
 - Festlegen, welche Vorgänge ein KI-Agent über die API auslösen darf — z.B. freie Termine abfragen und buchen, aber keine Prüfungstermine absagen
@@ -24,7 +24,7 @@ Kürzel: renn
 
 ## Systemkonstruktion
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Technischer Entwurf mit Systemarchitektur, Komponenten und Schnittstellen.
 
 - Das System in Komponenten zerlegen — z.B. Terminverwaltung, Benachrichtigung, Anmeldung — und deren Schnittstellen festlegen
 - Terminverwaltung und Benachrichtigung zusammenführen und ihr Zusammenspiel gegen Testfälle prüfen
@@ -34,14 +34,14 @@ Kürzel: renn
 
 ## Implementierung
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Implementierte Softwarekomponenten des Terminplaners.
 
 - Die Komponente „Benachrichtigung“ programmieren
 - Die fertige Komponente „Terminverwaltung“ für sich testen, ehe sie mit anderen zusammenkommt
 
 ## Integration & Einführung
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Integrierter, getesteter und in der vorgesehenen Umgebung eingeführter Terminplaner.
 
 - Die THM installiert das System in ihrer eigenen Umgebung und prüft es in eigener Verantwortung
 - Das System als Ganzes unter Federführung des Qualitätsbeauftragten gegen die Testfälle prüfen
@@ -50,7 +50,7 @@ Kürzel: renn
 
 ## Wartung
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Aktualisierte und gewartete Software mit behobenen Fehlern und Verbesserungen.
 
 - Einen Fehler bei der Zeitumstellung beheben, den ein Sekretariat gemeldet hat
 - Eine Hotline für Fragen der Anwenderinnen und Anwender besetzen
